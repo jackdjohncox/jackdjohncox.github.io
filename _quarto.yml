@@ -6,9 +6,15 @@ website:
   title: "Jack Daniel Johncox"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Home"
+        file: index.qmd
+      - text: "Bio"
+        file: about.qmd
+      - text: "CV"
+        file: cv.qmd
+    right:
+      - icon: github
+        href: https://github.com/jackdjohncox
 
 format:
   html:
