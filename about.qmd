@@ -1,9 +1,5 @@
 ---
-title: "About"
+title: "Bio"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+![](Pro Headshot_CLEAN.png){fig-align="left" width="230"}
