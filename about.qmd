@@ -1,5 +1,0 @@
----
-title: "Bio"
----
-
-![](Pro Headshot_CLEAN.png){fig-align="left" width="230"}

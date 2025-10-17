@@ -1,5 +1,0 @@
----
-title: "Welcome"
----
-
-My name is Jack Johncox, I currently work at the ALERRT Center at Texas State University as a research associate. This website will be used as a personal project, digital resume, and curriculum vitae!
