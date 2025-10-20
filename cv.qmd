@@ -3,7 +3,6 @@ title: "Cirriculum Vitae"
 format: html
 ---
 
-This is where the CV will go
+This is where the CV will go. ORCiD: <https://orcid.org/0009-0001-3637-8457>
 
-![](cv-template.pdf){width=100%
-height=1000px}
+![](cv-template.pdf){width="100%" height="1000px"}
