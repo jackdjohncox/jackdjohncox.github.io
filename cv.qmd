@@ -3,7 +3,42 @@ title: "Cirriculum Vitae"
 format: html
 ---
 
-This is where the CV will go
+<a href="resources/cv.pdf" download class="btn btn-primary"> Download CV </a>
 
-![](cv-template.pdf){width=100%
-height=1000px}
+# Jack D. Johncox
+
+Texas State University
+
+ALERRT Center
+
+San Marcos, Texas
+
+575-942-9161
+
+jdj157\@txstate.edu
+
+## Education
+
+### Texas State University – Master of Science in Criminal Justice, In Progress
+
+### Texas State University – College of Applied Arts, May 2023
+
+Major: Bachelor of Science in Criminal Justice
+
+## Positions
+
+·         Research Associate, Texas State University, ALERRT Center, 2024 - Present
+
+## Publications
+
+### Journal Articles
+
+·      Blair, J. P., Martaindale, M. H., Tanksley, P. T., & Johncox, J. D. (2025). Active attacks with motor vehicles: A short report and case study of the 2025 New Year’s Day attack in New Orleans, LA. *American Journal of Criminal Justice*, *50*(6), 1067–1074.
+
+·      Eleuterio-da-Rocha, J., Tanksley, P. T., Martaindale, M. H., Johncox, J., & Blair, J. P. (2026). Striking or grappling? Comparing public and officers’ perceptions of police use of force. *Journal of Criminal Justice*, *103*, 102601.
+
+·      Johncox, J. D., & Martaindale, M. H. (2025a). \@#%\$!: The impact of officer profanity on civilians’ perception of what constitutes reasonable use of force. *Applied Police Briefings*, *2*(3), 55–57.
+
+·      Johncox, J. D., & Martaindale, M. H. (2025b). Wait for backup or not? How police officers view their role when responding to an active shooter event. *Applied Police Briefings*, *2*(3), 64–66.
+
+·      Johncox, J. D., Martindale, M. H., & Sandel, W. L. (2025). Can a virtual reality training scenario elicit a stress response similar to that of a realistic scenario-based training scenario? *Applied Police Briefings*, *2*(1), 17–19.

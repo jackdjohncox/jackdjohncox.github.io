@@ -1,0 +1,83 @@
+---
+title: "Resume"
+format: html
+---
+
+<a href="resources/resume.pdf" download class="btn btn-primary"> Download Resume </a>
+
+# Jack D. Johncox
+
+Austin, Texas\
+johncoxjack\@gmail.com
+
+## Areas of Expertise
+
+::::: columns
+::: {.column width="50%"}
+-   Research & Strategy Research Design & Methodology\
+-   Project Management\
+-   Statistical Analysis & Data Visualization\
+-   Intelligence Report Writing\
+-   Active Threat Research & Response
+:::
+
+::: {.column width="50%"}
+-   Technical & Leadership RStudio & Microsoft Office Suite\
+-   Law Enforcement Engagement\
+-   Intelligence-Led Policing Research\
+-   Team Leadership\
+-   Operations Management
+:::
+:::::
+
+## Professional Experience
+
+### ALERRT, San Marcos, TX 04/2024 – Present
+
+#### Research Associate
+
+-   Analyze and maintain incident datasets using Excel & RStudio to produce annual active attack trend reports informing national law enforcement training programs.
+-   Contribute to full research lifecycle, from study piloting and data collection through analysis and publication, producing peer-reviewed work across active threat and law enforcement domains.
+-   Assist with virtual reality, eye-tracking, agent-based modeling, and simulation-based projects using specialized training.
+-   Produce grant-funded research reports, public-facing data publications, and policy-informing briefs disseminated to law enforcement agencies, industry partners, and academic audiences nationwide.
+
+### ALERRT, San Marcos, TX 04/2023 - 04/2024
+
+#### Logistics Specialist
+
+-   Managed end-to-end logistics of FBI-standard active shooter training materials, including inventory control, distribution, retrieval, and quality assurance across nationwide law enforcement training programs.
+-   Supported local first responder training events, contributing to educational efforts aligned with national active threat response standards.
+
+## Certifications
+
+Agent-based Modeling Certification - ICPSR
+
+Foundations of Eye Tracking Certification - Tobii
+
+Social and Behavioral Research Certification - CITI
+
+ALERRT Level 1 Active Shooter Response Certification – ALERRT
+
+## Publications
+
+[Eleuterio-da-Rocha, J., Tanksley, P. T., Martaindale, M. H., Johncox, J., & Blair, J. P. (2025). Striking or Grappling? Comparing Public and Officers’ Perceptions of Police Use of Force. CrimRxiv.](https://doi.org/10.21428/cb6ab371.10d2e685)
+
+[Blair, J.P., Martaindale, M.H., Tanksley, P.T. et al. Active Attacks with Motor Vehicles: A Short Report and Case Study of the 2025 New Year’s Day Attack in New Orleans, LA.. Am J Crim Just (2025).](https://doi.org/10.21428/cb6ab371.e38dadd3)
+
+[Johncox, J. D., & Martaindale, M. H. (2025). \@#%\$!: The Impact of Officer Profanity on Civilians’ Perception of What Constitutes Reasonable Use of Force. Applied Police Briefings, 2(3), 55–57.](https://doi.org/10.22215/apb.v2i3.5519)
+
+[Johncox, J. D., & Martaindale, M. H. (2025). Wait for Backup or Not? How Police Officers View Their Role When Responding to an Active Shooter Event. Applied Police Briefings, 2(3), 64–66.](https://doi.org/10.22215/apb.v2i3.5522)
+
+[Johncox, J. D., Martindale, M. H., & Sandel, W. L. (2025). Can a Virtual Reality Training Scenario Elicit a Stress Response Similar to a Realistic ScenarioBased Training Scenario?. Applied Police Briefings, 2(1), 17–19.](https://doi.org/10.22215/apb.v2i1.5141)
+
+## Education
+
+Master of Science in Criminal Justice and Criminology – In Progress\
+Expected Graduation December 2026\
+4.00 GPA\
+Texas State University \| San Marcos, Texas
+
+Bachelor of Science in Criminal Justice – May 2023\
+3.15 GPA\
+Dean’s List Fall 2022\
+Texas State University \| San Marcos, Texas
