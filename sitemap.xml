@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://jackdjohncox.github.io/about.html</loc>
-    <lastmod>2025-10-20T19:27:58.683Z</lastmod>
+    <loc>about.qmd/resume.html</loc>
+    <lastmod>2026-03-26T23:51:04.691Z</lastmod>
   </url>
   <url>
-    <loc>https://jackdjohncox.github.io/index.html</loc>
-    <lastmod>2025-10-20T19:27:58.690Z</lastmod>
+    <loc>about.qmd/index.html</loc>
+    <lastmod>2026-03-26T23:51:04.683Z</lastmod>
   </url>
   <url>
-    <loc>https://jackdjohncox.github.io/cv.html</loc>
-    <lastmod>2025-10-20T19:27:58.683Z</lastmod>
+    <loc>about.qmd/cv.html</loc>
+    <lastmod>2026-03-26T23:51:04.668Z</lastmod>
   </url>
 </urlset>
