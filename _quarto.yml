@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Jack Daniel Johncox"
-  site-url: about.qmd
+  site-url: index.qmd
   navbar:
     left:
       - text: "Home"
