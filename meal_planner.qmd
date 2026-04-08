@@ -1,0 +1,9 @@
+---
+title: "Meal and Macro Calculator"
+format:
+  html:
+    toc: false
+    page-layout: full
+---
+
+<iframe src="meal_plan.html" width="100%" height="950px" style="border:none;"></iframe>
