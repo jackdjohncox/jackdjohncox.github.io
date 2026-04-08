@@ -2,14 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>index.qmd/resume.html</loc>
-    <lastmod>2026-03-27T00:02:20.233Z</lastmod>
+    <lastmod>2026-04-08T02:09:28.039Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/meal_planner.html</loc>
+    <lastmod>2026-04-08T02:09:28.036Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/fun.html</loc>
+    <lastmod>2026-04-08T02:09:28.036Z</lastmod>
   </url>
   <url>
     <loc>index.qmd/cv.html</loc>
-    <lastmod>2026-03-27T00:02:20.218Z</lastmod>
+    <lastmod>2026-04-08T02:09:28.025Z</lastmod>
   </url>
   <url>
     <loc>index.qmd/index.html</loc>
-    <lastmod>2026-03-27T00:02:20.230Z</lastmod>
+    <lastmod>2026-04-08T02:09:28.036Z</lastmod>
   </url>
 </urlset>
