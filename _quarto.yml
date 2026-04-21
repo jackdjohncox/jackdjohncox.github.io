@@ -1,20 +1,27 @@
 project:
   type: website
   output-dir: docs
+  resources: meal_plan.html
 
 website:
   title: "Jack Daniel Johncox"
+  site-url: index.qmd
   navbar:
     left:
       - text: "Home"
-        file: index.qmd
-      - text: "Bio"
-        file: about.qmd
+        href: index.qmd
+      - text: "Resume"
+        href: resume.qmd
       - text: "CV"
-        file: cv.qmd
+        href: cv.qmd
     right:
       - icon: github
         href: https://github.com/jackdjohncox
+      - icon: linkedin
+        href: https://www.linkedin.com/in/jack-johncox-154463221/
+      - text: "Fun Pages"
+        href: fun.qmd
+
 
 format:
   html:

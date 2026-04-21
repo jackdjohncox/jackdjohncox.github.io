@@ -1,0 +1,22 @@
+---
+title: "Fun Pages"
+format:
+  html:
+    toc: false
+---
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {.card .h-100}
+::: {.card-body .d-flex .flex-column}
+#### 🥗 Meal Plan Calculator
+
+Interactive macro planner built from your profile — TDEE, protein targets, carb and protein swaps, and a live macro breakdown.
+
+[Open tool →](meal_planner.qmd){.btn .btn-outline-success .btn-sm .mt-auto}
+:::
+:::
+:::
+
+:::
