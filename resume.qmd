@@ -14,19 +14,19 @@ johncoxjack\@gmail.com
 
 ::::: columns
 ::: {.column width="50%"}
--   Research & Strategy Research Design & Methodology\
--   Project Management\
--   Statistical Analysis & Data Visualization\
--   Intelligence Report Writing\
--   Active Threat Research & Response
+- Research & Strategy Research Design & Methodology\
+- Project Management\
+- Statistical Analysis & Data Visualization\
+- Intelligence Report Writing\
+- Active Threat Research & Response
 :::
 
 ::: {.column width="50%"}
--   Technical & Leadership RStudio & Microsoft Office Suite\
--   Law Enforcement Engagement\
--   Intelligence-Led Policing Research\
--   Team Leadership\
--   Operations Management
+- Technical & Leadership RStudio & Microsoft Office Suite\
+- Law Enforcement Engagement\
+- Intelligence-Led Policing Research\
+- Team Leadership\
+- Operations Management
 :::
 :::::
 
@@ -36,17 +36,17 @@ johncoxjack\@gmail.com
 
 #### Research Associate
 
--   Analyze and maintain incident datasets using Excel & RStudio to produce annual active attack trend reports informing national law enforcement training programs.
--   Contribute to full research lifecycle, from study piloting and data collection through analysis and publication, producing peer-reviewed work across active threat and law enforcement domains.
--   Assist with virtual reality, eye-tracking, agent-based modeling, and simulation-based projects using specialized training.
--   Produce grant-funded research reports, public-facing data publications, and policy-informing briefs disseminated to law enforcement agencies, industry partners, and academic audiences nationwide.
+- Analyze and maintain incident datasets using Excel & RStudio to produce annual active attack trend reports informing national law enforcement training programs.
+- Contribute to full research lifecycle, from study piloting and data collection through analysis and publication, producing peer-reviewed work across active threat and law enforcement domains.
+- Assist with virtual reality, eye-tracking, agent-based modeling, and simulation-based projects using specialized training.
+- Produce grant-funded research reports, public-facing data publications, and policy-informing briefs disseminated to law enforcement agencies, industry partners, and academic audiences nationwide.
 
 ### ALERRT, San Marcos, TX 04/2023 - 04/2024
 
 #### Logistics Specialist
 
--   Managed end-to-end logistics of FBI-standard active shooter training materials, including inventory control, distribution, retrieval, and quality assurance across nationwide law enforcement training programs.
--   Supported local first responder training events, contributing to educational efforts aligned with national active threat response standards.
+- Managed end-to-end logistics of FBI-standard active shooter training materials, including inventory control, distribution, retrieval, and quality assurance across nationwide law enforcement training programs.
+- Supported local first responder training events, contributing to educational efforts aligned with national active threat response standards.
 
 ## Certifications
 

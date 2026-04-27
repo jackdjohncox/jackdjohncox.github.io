@@ -5,10 +5,9 @@ format:
     toc: false
 ---
 
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
-::: {.card .h-100}
+:::::: grid
+::::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+:::: {.card .h-100}
 ::: {.card-body .d-flex .flex-column}
 #### 🥗 Meal Plan Calculator
 
@@ -16,7 +15,6 @@ Interactive macro planner built from your profile — TDEE, protein targets, car
 
 [Open tool →](meal_planner.qmd){.btn .btn-outline-success .btn-sm .mt-auto}
 :::
-:::
-:::
-
-:::
+::::
+:::::
+::::::
