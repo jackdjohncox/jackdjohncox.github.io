@@ -1,0 +1,15 @@
+---
+title: "Developed"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  feed: true
+  date-format: "MMMM D, YYYY"
+format:
+  html:
+    toc: false
+---
+
+*Thoughts, research, what I have been up to, and whatever else is worth developing.*

@@ -1,0 +1,13 @@
+---
+title: "First Roll"
+date: 2026-05-06
+description: "What this is and what to expect."
+---
+
+Every roll of film starts in the dark. You load it, close the camera, and trust the process. The image already exists somewhere, you just have not seen it yet.
+
+That felt like the right metaphor for starting this.
+
+**Developed** is where I will put things that do not fit neatly elsewhere. Observations from research work that do not belong in a paper. Thoughts on tools and technology I am tinkering with. Maybe some pictures I have taken. No strict format, no posting schedule. Just things worth developing.
+
+First rolls are always a little uncertain, but that's the fun in it.
