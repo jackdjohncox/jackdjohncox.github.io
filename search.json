@@ -1,38 +1,59 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jack Daniel Johncox",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "About Me\nI’m a Research Associate with the Advanced Law Enforcement Rapid Response Training (ALERRT) Center at Texas State University, where I focus on turning data into life-saving strategies for first responders. My work bridges research and real-world application to improve officer performance, decision-making, and community safety.\nMy recent projects have explored topics like stress responses in virtual reality training, civilian perceptions of use of force, and active attacks involving motor vehicles. Before moving into research, I worked as a Logistics Specialist at ALERRT, helping coordinate large-scale training deployments across the country.\nI earned my undergraduate degree in Criminal Justice from Texas State University, where I am currently enrolled in the Masters of Science Criminal Justice program.\nMy recent publications include:\n\n“Active Attacks with Motor Vehicles: A Short Report and Case Study of the 2025 New Year’s Day Attack in New Orleans, LA” — American Journal of Criminal Justice (2025)\n“@#%$!: The Impact of Officer Profanity on Civilians’ Perception of What Constitutes Reasonable Use of Force” — Applied Police Briefings (2025)\n“Can a Virtual Reality Training Scenario Elicit a Stress Response Similar to a Realistic Scenario-Based Training Scenario?” — Applied Police Briefings (2025)\n\nI’m passionate about using data to make training more effective and realistic, and ultimately to help save lives. Outside of work, I enjoy strong coffee, technology, and my best Rubik’s cube time was 42 seconds."
+    "text": "Whether you’re a researcher, a law enforcement professional, a journalist, or just curious, feel free to reach out.\n\n  \n    \n    \n      Name\n      \n    \n    \n      Email\n      \n    \n    \n      Message\n      \n    \n    Send Message"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m a Research Associate with the Advanced Law Enforcement Rapid Response Training (ALERRT) Center at Texas State University, where I focus on turning data into life-saving strategies for first responders. My work bridges research and real-world application, studying things like how officers respond under stress, how the public perceives police use of force, and how active attacks unfold.\nBefore moving into research full-time, I worked as a Logistics Specialist at ALERRT, helping coordinate large-scale training deployments across the country. That experience gave me a ground-level understanding of how the work actually gets done, which I think makes me a better researcher.\nI’m currently finishing a Master of Science in Criminal Justice at Texas State, holding a 4.0 GPA while working full-time, which I’m genuinely proud of.\nOutside of work: strong coffee is non-negotiable, I’m always tinkering with some tech project (this site is one of them), my best Rubik’s cube solve is 42 seconds, and I shoot film photography when I can."
+  },
+  {
+    "objectID": "fun.html",
+    "href": "fun.html",
+    "title": "Fun Pages",
+    "section": "",
+    "text": "A collection of personal projects and tools I’ve built or tinkered with.\n\n\n\n\n🥗 Meal Plan Calculator\nEnter your stats and goal, and the tool computes your TDEE, sets protein and macro targets, and builds out a full day of meals with swappable proteins, carbs, and sauces that update macros live. Includes a bowl maker and a research basis tab with citations.\nOpen tool"
   },
   {
     "objectID": "cv.html",
     "href": "cv.html",
-    "title": "Cirriculum Vitae",
+    "title": "Curriculum Vitae",
     "section": "",
     "text": "Download CV"
   },
   {
+    "objectID": "cv.html#jack-d.-johncox",
+    "href": "cv.html#jack-d.-johncox",
+    "title": "Curriculum Vitae",
+    "section": "Jack D. Johncox",
+    "text": "Jack D. Johncox\nTexas State University  ·  ALERRT Center  ·  San Marcos, Texas\njdj157@txstate.edu"
+  },
+  {
     "objectID": "cv.html#education",
     "href": "cv.html#education",
-    "title": "Cirriculum Vitae",
+    "title": "Curriculum Vitae",
     "section": "Education",
-    "text": "Education\n\nTexas State University – Master of Science in Criminal Justice, In Progress\n\n\nTexas State University – College of Applied Arts, May 2023\nMajor: Bachelor of Science in Criminal Justice"
+    "text": "Education\n\nMaster of Science in Criminal Justice & Criminology — In Progress\nTexas State University  ·  Expected December 2026  ·  4.00 GPA\n\n\nBachelor of Science in Criminal Justice — May 2023\nTexas State University, College of Applied Arts  ·  3.15 GPA  ·  Dean’s List Fall 2022"
   },
   {
     "objectID": "cv.html#positions",
     "href": "cv.html#positions",
-    "title": "Cirriculum Vitae",
+    "title": "Curriculum Vitae",
     "section": "Positions",
-    "text": "Positions\n·         Research Associate, Texas State University, ALERRT Center, 2024 - Present"
+    "text": "Positions\nResearch Associate  ·  Texas State University, ALERRT Center  ·  2024 – Present"
   },
   {
     "objectID": "cv.html#publications",
     "href": "cv.html#publications",
-    "title": "Cirriculum Vitae",
+    "title": "Curriculum Vitae",
     "section": "Publications",
-    "text": "Publications\n\nJournal Articles\n·      Blair, J. P., Martaindale, M. H., Tanksley, P. T., & Johncox, J. D. (2025). Active attacks with motor vehicles: A short report and case study of the 2025 New Year’s Day attack in New Orleans, LA. American Journal of Criminal Justice, 50(6), 1067–1074.\n·      Eleuterio-da-Rocha, J., Tanksley, P. T., Martaindale, M. H., Johncox, J., & Blair, J. P. (2026). Striking or grappling? Comparing public and officers’ perceptions of police use of force. Journal of Criminal Justice, 103, 102601.\n·      Johncox, J. D., & Martaindale, M. H. (2025a). @#%$!: The impact of officer profanity on civilians’ perception of what constitutes reasonable use of force. Applied Police Briefings, 2(3), 55–57.\n·      Johncox, J. D., & Martaindale, M. H. (2025b). Wait for backup or not? How police officers view their role when responding to an active shooter event. Applied Police Briefings, 2(3), 64–66.\n·      Johncox, J. D., Martindale, M. H., & Sandel, W. L. (2025). Can a virtual reality training scenario elicit a stress response similar to that of a realistic scenario-based training scenario? Applied Police Briefings, 2(1), 17–19."
+    "text": "Publications\n\nJournal Articles\nBlair, J. P., Martaindale, M. H., Tanksley, P. T., & Johncox, J. D. (2025). Active attacks with motor vehicles: A short report and case study of the 2025 New Year’s Day attack in New Orleans, LA. American Journal of Criminal Justice, 50(6), 1067–1074.\nEleuterio-da-Rocha, J., Tanksley, P. T., Martaindale, M. H., Johncox, J., & Blair, J. P. (2026). Striking or grappling? Comparing public and officers’ perceptions of police use of force. Journal of Criminal Justice, 103, 102601.\nJohncox, J. D., & Martaindale, M. H. (2025a). @#%$!: The impact of officer profanity on civilians’ perception of what constitutes reasonable use of force. Applied Police Briefings, 2(3), 55–57.\nJohncox, J. D., & Martaindale, M. H. (2025b). Wait for backup or not? How police officers view their role when responding to an active shooter event. Applied Police Briefings, 2(3), 64–66.\nJohncox, J. D., Martindale, M. H., & Sandel, W. L. (2025). Can a virtual reality training scenario elicit a stress response similar to that of a realistic scenario-based training scenario? Applied Police Briefings, 2(1), 17–19."
   },
   {
     "objectID": "resume.html",
@@ -42,45 +63,66 @@
     "text": "Download Resume"
   },
   {
-    "objectID": "resume.html#areas-of-expertise",
-    "href": "resume.html#areas-of-expertise",
+    "objectID": "resume.html#jack-d.-johncox",
+    "href": "resume.html#jack-d.-johncox",
     "title": "Resume",
-    "section": "Areas of Expertise",
-    "text": "Areas of Expertise\n\n\n\nResearch & Strategy Research Design & Methodology\n\nProject Management\n\nStatistical Analysis & Data Visualization\n\nIntelligence Report Writing\n\nActive Threat Research & Response\n\n\n\nTechnical & Leadership RStudio & Microsoft Office Suite\n\nLaw Enforcement Engagement\n\nIntelligence-Led Policing Research\n\nTeam Leadership\n\nOperations Management"
+    "section": "Jack D. Johncox",
+    "text": "Jack D. Johncox\nAustin, Texas · johncoxjack@gmail.com"
   },
   {
-    "objectID": "resume.html#professional-experience",
-    "href": "resume.html#professional-experience",
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
     "title": "Resume",
-    "section": "Professional Experience",
-    "text": "Professional Experience\n\nALERRT, San Marcos, TX 04/2024 – Present\n\nResearch Associate\n\nAnalyze and maintain incident datasets using Excel & RStudio to produce annual active attack trend reports informing national law enforcement training programs.\nContribute to full research lifecycle, from study piloting and data collection through analysis and publication, producing peer-reviewed work across active threat and law enforcement domains.\nAssist with virtual reality, eye-tracking, agent-based modeling, and simulation-based projects using specialized training.\nProduce grant-funded research reports, public-facing data publications, and policy-informing briefs disseminated to law enforcement agencies, industry partners, and academic audiences nationwide.\n\n\n\n\nALERRT, San Marcos, TX 04/2023 - 04/2024\n\nLogistics Specialist\n\nManaged end-to-end logistics of FBI-standard active shooter training materials, including inventory control, distribution, retrieval, and quality assurance across nationwide law enforcement training programs.\nSupported local first responder training events, contributing to educational efforts aligned with national active threat response standards."
+    "section": "Skills",
+    "text": "Skills\n\n  Research Design & Methodology\n  Statistical Analysis\n  Data Visualization\n  Intelligence Report Writing\n  Active Threat Research\n  Project Management\n  Team Leadership\n  Operations Management\n  RStudio\n  Microsoft Office Suite\n  Law Enforcement Engagement\n  Intelligence-Led Policing"
   },
   {
-    "objectID": "resume.html#certifications",
-    "href": "resume.html#certifications",
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
     "title": "Resume",
-    "section": "Certifications",
-    "text": "Certifications\nAgent-based Modeling Certification - ICPSR\nFoundations of Eye Tracking Certification - Tobii\nSocial and Behavioral Research Certification - CITI\nALERRT Level 1 Active Shooter Response Certification – ALERRT"
-  },
-  {
-    "objectID": "resume.html#publications",
-    "href": "resume.html#publications",
-    "title": "Resume",
-    "section": "Publications",
-    "text": "Publications\nEleuterio-da-Rocha, J., Tanksley, P. T., Martaindale, M. H., Johncox, J., & Blair, J. P. (2025). Striking or Grappling? Comparing Public and Officers’ Perceptions of Police Use of Force. CrimRxiv.\nBlair, J.P., Martaindale, M.H., Tanksley, P.T. et al. Active Attacks with Motor Vehicles: A Short Report and Case Study of the 2025 New Year’s Day Attack in New Orleans, LA.. Am J Crim Just (2025).\nJohncox, J. D., & Martaindale, M. H. (2025). @#%$!: The Impact of Officer Profanity on Civilians’ Perception of What Constitutes Reasonable Use of Force. Applied Police Briefings, 2(3), 55–57.\nJohncox, J. D., & Martaindale, M. H. (2025). Wait for Backup or Not? How Police Officers View Their Role When Responding to an Active Shooter Event. Applied Police Briefings, 2(3), 64–66.\nJohncox, J. D., Martindale, M. H., & Sandel, W. L. (2025). Can a Virtual Reality Training Scenario Elicit a Stress Response Similar to a Realistic ScenarioBased Training Scenario?. Applied Police Briefings, 2(1), 17–19."
+    "section": "Experience",
+    "text": "Experience\n\n\n  \n    \n      Research Associate\n      Apr 2024 – Present\n    \n    ALERRT Center, Texas State University  ·  San Marcos, TX\n    \n      Analyze and maintain incident datasets using Excel and RStudio to produce annual active attack trend reports informing national law enforcement training programs.\n      Contribute to the full research lifecycle from study piloting and data collection through analysis and publication, producing peer-reviewed work across active threat and law enforcement domains.\n      Assist with virtual reality, eye-tracking, agent-based modeling, and simulation-based projects using specialized training.\n      Produce grant-funded research reports, public-facing data publications, and policy-informing briefs disseminated to law enforcement agencies, industry partners, and academic audiences nationwide.\n    \n  \n\n  \n    \n      Logistics Specialist\n      Apr 2023 – Apr 2024\n    \n    ALERRT Center, Texas State University  ·  San Marcos, TX\n    \n      Managed end-to-end logistics of FBI-standard active shooter training materials, including inventory control, distribution, retrieval, and quality assurance across nationwide law enforcement training programs.\n      Supported local first responder training events, contributing to educational efforts aligned with national active threat response standards."
   },
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
     "title": "Resume",
     "section": "Education",
-    "text": "Education\nMaster of Science in Criminal Justice and Criminology – In Progress\nExpected Graduation December 2026\n4.00 GPA\nTexas State University | San Marcos, Texas\nBachelor of Science in Criminal Justice – May 2023\n3.15 GPA\nDean’s List Fall 2022\nTexas State University | San Marcos, Texas"
+    "text": "Education\n\n\n  \n    \n      M.S. Criminal Justice & Criminology\n      In Progress  ·  Expected Dec 2026\n    \n    Texas State University  ·  San Marcos, TX  ·  4.00 GPA\n  \n\n  \n    \n      B.S. Criminal Justice\n      May 2023\n    \n    Texas State University  ·  San Marcos, TX  ·  3.15 GPA  ·  Dean's List Fall 2022"
   },
   {
-    "objectID": "fun.html",
-    "href": "fun.html",
-    "title": "Fun Pages",
+    "objectID": "resume.html#certifications",
+    "href": "resume.html#certifications",
+    "title": "Resume",
+    "section": "Certifications",
+    "text": "Certifications\n\n  \n    Agent-Based Modeling\n    ICPSR\n  \n  \n    Foundations of Eye Tracking\n    Tobii\n  \n  \n    Social and Behavioral Research\n    CITI\n  \n  \n    Level 1 Active Shooter Response\n    ALERRT"
+  },
+  {
+    "objectID": "resume.html#publications",
+    "href": "resume.html#publications",
+    "title": "Resume",
+    "section": "Publications",
+    "text": "Publications\n\n\n  \n    Striking or Grappling? Comparing Public and Officers' Perceptions of Police Use of Force\n    Eleuterio-da-Rocha, J., Tanksley, P.T., Martaindale, M.H., Johncox, J., & Blair, J.P.  ·  Journal of Criminal Justice  ·  2026\n    Read →\n  \n\n  \n    Active Attacks with Motor Vehicles: A Short Report and Case Study of the 2025 New Year's Day Attack in New Orleans, LA\n    Blair, J.P., Martaindale, M.H., Tanksley, P.T., & Johncox, J.D.  ·  American Journal of Criminal Justice  ·  2025\n    Read →\n  \n\n  \n    @#%$!: The Impact of Officer Profanity on Civilians' Perception of What Constitutes Reasonable Use of Force\n    Johncox, J.D. & Martaindale, M.H.  ·  Applied Police Briefings, 2(3), 55–57  ·  2025\n    Read →\n  \n\n  \n    Wait for Backup or Not? How Police Officers View Their Role When Responding to an Active Shooter Event\n    Johncox, J.D. & Martaindale, M.H.  ·  Applied Police Briefings, 2(3), 64–66  ·  2025\n    Read →\n  \n\n  \n    Can a Virtual Reality Training Scenario Elicit a Stress Response Similar to a Realistic Scenario-Based Training Scenario?\n    Johncox, J.D., Martindale, M.H., & Sandel, W.L.  ·  Applied Police Briefings, 2(1), 17–19  ·  2025\n    Read →"
+  },
+  {
+    "objectID": "developed.html",
+    "href": "developed.html",
+    "title": "Developed",
     "section": "",
-    "text": "🥗 Meal Plan Calculator\nInteractive macro planner built from your profile — TDEE, protein targets, carb and protein swaps, and a live macro breakdown.\nOpen tool →"
+    "text": "Thoughts, research, what I have been up to, and whatever else is worth developing.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFirst Roll\n\n\nWhat this is and what to expect.\n\n\n\n\n\nMay 6, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/2026-05-first-roll/index.html",
+    "href": "posts/2026-05-first-roll/index.html",
+    "title": "First Roll",
+    "section": "",
+    "text": "Every roll of film starts in the dark. You load it, close the camera, and trust the process. The image already exists somewhere, you just have not seen it yet.\nThat felt like the right metaphor for starting this.\nDeveloped is where I will put things that do not fit neatly elsewhere. Observations from research work that do not belong in a paper. Thoughts on tools and technology I am tinkering with. Maybe some pictures I have taken. No strict format, no posting schedule. Just things worth developing.\nFirst rolls are always a little uncertain, but that’s the fun in it."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jack Daniel Johncox",
+    "section": "",
+    "text": "Jack Daniel Johncox\n  Research Associate  ·  ALERRT Center  ·  Texas State University\n  \n    LinkedIn\n    GitHub\n    About Me\n  \n\n\n\nI’m a Research Associate at the ALERRT Center at Texas State University, where I turn data into life-saving strategies for first responders. My work spans the full research lifecycle, from study design and data collection to peer-reviewed publication, across topics including active threat response, officer decision-making, and the science of law enforcement training.\n\nRecent Publications\n\n\n  \n    Striking or Grappling? Comparing Public and Officers' Perceptions of Police Use of Force\n    Eleuterio-da-Rocha, J., Tanksley, P.T., Martaindale, M.H., Johncox, J., & Blair, J.P.  ·  Journal of Criminal Justice  ·  2026\n    Read →\n  \n\n  \n    Active Attacks with Motor Vehicles: A Short Report and Case Study of the 2025 New Year's Day Attack in New Orleans, LA\n    Blair, J.P., Martaindale, M.H., Tanksley, P.T., & Johncox, J.D.  ·  American Journal of Criminal Justice  ·  2025\n    Read →\n  \n\n  \n    @#%$!: The Impact of Officer Profanity on Civilians' Perception of What Constitutes Reasonable Use of Force\n    Johncox, J.D. & Martaindale, M.H.  ·  Applied Police Briefings  ·  2025\n    Read →\n  \n\n\nSee all publications"
   }
 ]

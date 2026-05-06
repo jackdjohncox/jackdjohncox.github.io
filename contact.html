@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Fun Pages – Jack Daniel Johncox</title>
+<title>Contact – Jack Daniel Johncox</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -109,7 +109,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./contact.html"> 
+    <a class="nav-link active" href="./contact.html" aria-current="page"> 
 <span class="menu-text">Contact</span></a>
   </li>  
 </ul>
@@ -129,7 +129,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Developed</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./fun.html" aria-current="page"> 
+    <a class="nav-link" href="./fun.html"> 
 <span class="menu-text">Fun</span></a>
   </li>  
 </ul>
@@ -149,7 +149,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Fun Pages</h1>
+<h1 class="title">Contact</h1>
 </div>
 
 
@@ -166,17 +166,24 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>A collection of personal projects and tools I’ve built or tinkered with.</p>
-<div class="grid">
-<div class="g-col-12 g-col-md-6 g-col-lg-4">
-<div class="card h-100 fun-card">
-<section id="meal-plan-calculator" class="level5 card-body d-flex flex-column">
-<h5 class="anchored" data-anchor-id="meal-plan-calculator">🥗 Meal Plan Calculator</h5>
-<p>Enter your stats and goal, and the tool computes your TDEE, sets protein and macro targets, and builds out a full day of meals with swappable proteins, carbs, and sauces that update macros live. Includes a bowl maker and a research basis tab with citations.</p>
-<p><a href="./meal_planner.html" class="btn btn-sage btn-sm mt-auto">Open tool</a></p>
-</section>
-</div>
-</div>
+<p>Whether you’re a researcher, a law enforcement professional, a journalist, or just curious, feel free to reach out.</p>
+<div class="contact-wrap">
+  <form action="https://formspree.io/f/maqvjrrl" method="POST">
+    <input type="hidden" name="_subject" value="New message from jackdjohncox.github.io">
+    <div class="mb-3">
+      <label class="form-label">Name</label>
+      <input type="text" name="name" class="form-control" placeholder="Your name" required="">
+    </div>
+    <div class="mb-3">
+      <label class="form-label">Email</label>
+      <input type="email" name="email" class="form-control" placeholder="your@email.com" required="">
+    </div>
+    <div class="mb-3">
+      <label class="form-label">Message</label>
+      <textarea name="message" class="form-control" rows="6" placeholder="What's on your mind?" required=""></textarea>
+    </div>
+    <button type="submit" class="btn btn-sage w-100">Send Message</button>
+  </form>
 </div>
 
 

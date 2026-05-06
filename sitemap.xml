@@ -1,23 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>index.qmd/index.html</loc>
-    <lastmod>2026-04-27T16:15:44.504Z</lastmod>
+    <loc>https://jackdjohncox.github.io/contact.html</loc>
+    <lastmod>2026-05-06T17:07:02.791Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/cv.html</loc>
-    <lastmod>2026-04-27T16:15:44.492Z</lastmod>
+    <loc>https://jackdjohncox.github.io/about.html</loc>
+    <lastmod>2026-05-06T17:07:02.791Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/resume.html</loc>
-    <lastmod>2026-04-27T16:15:44.507Z</lastmod>
+    <loc>https://jackdjohncox.github.io/fun.html</loc>
+    <lastmod>2026-05-06T17:07:02.805Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/meal_planner.html</loc>
-    <lastmod>2026-04-27T16:15:44.504Z</lastmod>
+    <loc>https://jackdjohncox.github.io/cv.html</loc>
+    <lastmod>2026-05-06T17:07:02.791Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/fun.html</loc>
-    <lastmod>2026-04-27T16:15:44.504Z</lastmod>
+    <loc>https://jackdjohncox.github.io/resume.html</loc>
+    <lastmod>2026-05-06T17:07:02.810Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jackdjohncox.github.io/meal_planner.html</loc>
+    <lastmod>2026-05-06T17:07:02.806Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jackdjohncox.github.io/developed.html</loc>
+    <lastmod>2026-05-06T17:07:02.791Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jackdjohncox.github.io/posts/2026-05-first-roll/index.html</loc>
+    <lastmod>2026-05-06T17:07:02.806Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jackdjohncox.github.io/index.html</loc>
+    <lastmod>2026-05-06T17:07:02.805Z</lastmod>
   </url>
 </urlset>
