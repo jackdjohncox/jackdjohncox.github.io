@@ -13,18 +13,24 @@ format:
   <h1 class="hero-name">Jack Daniel Johncox</h1>
   <p class="hero-tagline">Research Associate &nbsp;&middot;&nbsp; ALERRT Center &nbsp;&middot;&nbsp; Texas State University</p>
   <div class="hero-links">
-    <a href="https://www.linkedin.com/in/jack-johncox-154463221/" class="btn btn-sage" target="_blank">LinkedIn</a>
-    <a href="https://github.com/jackdjohncox" class="btn btn-sage" target="_blank">GitHub</a>
     <a href="about.html" class="btn btn-sage">About Me</a>
+    <a href="https://www.linkedin.com/in/jack-johncox-154463221/" class="btn btn-outline-sage" target="_blank">LinkedIn</a>
+    <a href="https://github.com/jackdjohncox" class="btn btn-outline-sage" target="_blank">GitHub</a>
   </div>
 </div>
 
 <hr>
+
+<div class="focus-strip">
+  <span class="focus-badge">Active Threat Response</span>
+  <span class="focus-badge">Officer Decision-Making</span>
+  <span class="focus-badge">Law Enforcement Training</span>
+</div>
 ```
 
 I'm a Research Associate at the [ALERRT Center](https://alerrt.org) at Texas State University, where I turn data into life-saving strategies for first responders. My work spans the full research lifecycle, from study design and data collection to peer-reviewed publication, across topics including active threat response, officer decision-making, and the science of law enforcement training.
 
-### Recent Publications
+### Recent Publications {.section-heading}
 
 ```{=html}
 <div class="pub-grid">

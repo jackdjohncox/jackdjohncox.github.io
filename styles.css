@@ -14,7 +14,7 @@
   --clr-sky:         #8BAEC4;
   --clr-sky-light:   #C5D9E8;
   --clr-text:        #2B2820;
-  --clr-text-muted:  #7A6E65;
+  --clr-text-muted:  #5E5248;
   --clr-border:      #D8D2CA;
   --radius:          12px;
   --radius-sm:       8px;
@@ -172,6 +172,34 @@ hr { border-color: var(--clr-border); opacity: 1; margin: 2rem 0; }
   box-shadow: var(--shadow-sm);
 }
 
+/* ── Research focus strip ───────────────── */
+.focus-strip {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .6rem;
+  justify-content: center;
+  margin: 1.25rem 0 1.75rem;
+}
+
+.focus-badge {
+  background: var(--clr-sage-light);
+  color: var(--clr-sage-dark);
+  border: 1.5px solid var(--clr-sage);
+  border-radius: 20px;
+  padding: .38rem 1rem;
+  font-size: .82rem;
+  font-weight: 600;
+  letter-spacing: .02em;
+  cursor: default;
+}
+
+/* ── Section headings ────────────────────── */
+.section-heading {
+  padding-bottom: .4rem;
+  border-bottom: 2px solid var(--clr-sage-light);
+  display: inline-block;
+}
+
 /* ── Publication cards ──────────────────── */
 .pub-grid {
   display: grid;
@@ -208,9 +236,12 @@ hr { border-color: var(--clr-border); opacity: 1; margin: 2rem 0; }
 }
 
 .pub-link {
-  font-size: .8rem;
+  font-size: .82rem;
   color: var(--clr-sage-dark);
-  font-weight: 500;
+  font-weight: 600;
+  display: inline-flex;
+  align-items: center;
+  gap: .25rem;
 }
 
 .pub-link:hover { color: var(--clr-sage); }
@@ -504,6 +535,17 @@ hr { border-color: var(--clr-border); opacity: 1; margin: 2rem 0; }
 
 .nav-footer a:hover {
   color: var(--clr-sage-dark);
+}
+
+/* ── Mobile hero buttons ────────────────── */
+@media (max-width: 576px) {
+  .btn-sage, .btn-outline-sage {
+    max-width: 280px;
+    width: 100%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
 
 /* ── Scrollbar ──────────────────────────── */
