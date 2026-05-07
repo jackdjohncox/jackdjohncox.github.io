@@ -3,44 +3,84 @@ title: "Curriculum Vitae"
 format: html
 ---
 
+```{=html}
+<style>#title-block-header .quarto-title { display: none; }</style>
+
 <a href="resources/cv.pdf" download class="btn btn-primary mb-4">Download CV</a>
 
-## Jack D. Johncox
+<div class="cv-identity">
+  <p class="cv-name">Jack D. Johncox</p>
+  <p class="cv-affiliation">Texas State University &nbsp;&middot;&nbsp; ALERRT Center &nbsp;&middot;&nbsp; San Marcos, Texas</p>
+  <p class="cv-contact"><a href="mailto:jdj157@txstate.edu">jdj157@txstate.edu</a></p>
+</div>
+```
 
-Texas State University  ·  ALERRT Center  ·  San Marcos, Texas
+## Education {.section-heading}
 
-[jdj157\@txstate.edu](mailto:jdj157@txstate.edu)
+```{=html}
+<div class="timeline">
 
-------------------------------------------------------------------------
+  <div class="tl-item">
+    <div class="tl-header">
+      <span class="tl-role">M.S. Criminal Justice &amp; Criminology</span>
+      <span class="tl-date">In Progress &nbsp;&middot;&nbsp; Expected Dec 2026</span>
+    </div>
+    <div class="tl-org">Texas State University &nbsp;&middot;&nbsp; San Marcos, TX &nbsp;&middot;&nbsp; 4.00 GPA</div>
+  </div>
 
-## Education
+  <div class="tl-item">
+    <div class="tl-header">
+      <span class="tl-role">B.S. Criminal Justice</span>
+      <span class="tl-date">May 2023</span>
+    </div>
+    <div class="tl-org">Texas State University, College of Applied Arts &nbsp;&middot;&nbsp; 3.15 GPA &nbsp;&middot;&nbsp; Dean's List Fall 2022</div>
+  </div>
 
-### Master of Science in Criminal Justice & Criminology — In Progress
+</div>
+```
 
-Texas State University  ·  Expected December 2026  ·  4.00 GPA
+## Positions {.section-heading}
 
-### Bachelor of Science in Criminal Justice — May 2023
+```{=html}
+<div class="timeline">
 
-Texas State University, College of Applied Arts  ·  3.15 GPA  ·  Dean's List Fall 2022
+  <div class="tl-item">
+    <div class="tl-header">
+      <span class="tl-role">Research Associate</span>
+      <span class="tl-date">Apr 2024 &ndash; Present</span>
+    </div>
+    <div class="tl-org">ALERRT Center, Texas State University &nbsp;&middot;&nbsp; San Marcos, TX</div>
+  </div>
 
-------------------------------------------------------------------------
+</div>
+```
 
-## Positions
-
-**Research Associate**  ·  Texas State University, ALERRT Center  ·  2024 – Present
-
-------------------------------------------------------------------------
-
-## Publications
+## Publications {.section-heading}
 
 ### Journal Articles
 
-Blair, J. P., Martaindale, M. H., Tanksley, P. T., & Johncox, J. D. (2025). Active attacks with motor vehicles: A short report and case study of the 2025 New Year's Day attack in New Orleans, LA. *American Journal of Criminal Justice*, *50*(6), 1067–1074.
+```{=html}
+<div class="pub-grid" style="margin-top:.75rem">
 
-Eleuterio-da-Rocha, J., Tanksley, P. T., Martaindale, M. H., Johncox, J., & Blair, J. P. (2026). Striking or grappling? Comparing public and officers' perceptions of police use of force. *Journal of Criminal Justice*, *103*, 102601.
+  <div class="cv-citation">
+    Blair, J. P., Martaindale, M. H., Tanksley, P. T., &amp; Johncox, J. D. (2025). Active attacks with motor vehicles: A short report and case study of the 2025 New Year's Day attack in New Orleans, LA. <em>American Journal of Criminal Justice</em>, <em>50</em>(6), 1067&ndash;1074.
+  </div>
 
-Johncox, J. D., & Martaindale, M. H. (2025a). \@#%\$!: The impact of officer profanity on civilians' perception of what constitutes reasonable use of force. *Applied Police Briefings*, *2*(3), 55–57.
+  <div class="cv-citation">
+    Eleuterio-da-Rocha, J., Tanksley, P. T., Martaindale, M. H., Johncox, J., &amp; Blair, J. P. (2026). Striking or grappling? Comparing public and officers&rsquo; perceptions of police use of force. <em>Journal of Criminal Justice</em>, <em>103</em>, 102601.
+  </div>
 
-Johncox, J. D., & Martaindale, M. H. (2025b). Wait for backup or not? How police officers view their role when responding to an active shooter event. *Applied Police Briefings*, *2*(3), 64–66.
+  <div class="cv-citation">
+    Johncox, J. D., &amp; Martaindale, M. H. (2025a). @#%$!: The impact of officer profanity on civilians&rsquo; perception of what constitutes reasonable use of force. <em>Applied Police Briefings</em>, <em>2</em>(3), 55&ndash;57.
+  </div>
 
-Johncox, J. D., Martindale, M. H., & Sandel, W. L. (2025). Can a virtual reality training scenario elicit a stress response similar to that of a realistic scenario-based training scenario? *Applied Police Briefings*, *2*(1), 17–19.
+  <div class="cv-citation">
+    Johncox, J. D., &amp; Martaindale, M. H. (2025b). Wait for backup or not? How police officers view their role when responding to an active shooter event. <em>Applied Police Briefings</em>, <em>2</em>(3), 64&ndash;66.
+  </div>
+
+  <div class="cv-citation">
+    Johncox, J. D., Martindale, M. H., &amp; Sandel, W. L. (2025). Can a virtual reality training scenario elicit a stress response similar to that of a realistic scenario-based training scenario? <em>Applied Police Briefings</em>, <em>2</em>(1), 17&ndash;19.
+  </div>
+
+</div>
+```

@@ -76,19 +76,35 @@ hr { border-color: var(--clr-border); opacity: 1; margin: 2rem 0; }
 /* ── Hero ───────────────────────────────── */
 .hero {
   text-align: center;
-  padding: 4rem 1.5rem 2.5rem;
+  padding: 5rem 1.5rem 3rem;
+  background:
+    radial-gradient(ellipse 70% 55% at 50% 0%,
+      rgba(194,213,184,0.22) 0%, transparent 100%),
+    radial-gradient(ellipse 100% 80% at 50% 100%,
+      rgba(214,206,193,0.12) 0%, transparent 70%);
 }
 
 .hero-photo {
-  width: 160px;
-  height: 160px;
+  width: 164px;
+  height: 164px;
   border-radius: 50%;
   object-fit: cover;
   object-position: center top;
-  border: 4px solid var(--clr-sage-light);
-  box-shadow: var(--shadow-md);
-  margin: 0 auto 1.5rem;
+  border: 3px solid var(--clr-bg);
+  box-shadow:
+    0 0 0 3px var(--clr-sage-light),
+    0 0 0 9px var(--clr-surface),
+    var(--shadow-md);
+  margin: 0 auto 1.75rem;
   display: block;
+  transition: var(--ease);
+}
+
+.hero-photo:hover {
+  box-shadow:
+    0 0 0 3px var(--clr-sage),
+    0 0 0 9px var(--clr-surface),
+    var(--shadow-lg);
 }
 
 .hero-name {
@@ -553,3 +569,82 @@ hr { border-color: var(--clr-border); opacity: 1; margin: 2rem 0; }
 ::-webkit-scrollbar-track { background: var(--clr-bg); }
 ::-webkit-scrollbar-thumb { background: var(--clr-sage-light); border-radius: 3px; }
 ::-webkit-scrollbar-thumb:hover { background: var(--clr-sage); }
+
+/* ── CV identity block ───────────────────── */
+.cv-identity { margin-bottom: 1.75rem; padding-bottom: 1.25rem; border-bottom: 1px solid var(--clr-border); }
+.cv-identity .cv-name { font-family: 'Lora', serif; font-size: 1.55rem; font-weight: 600; margin: 0 0 .3rem; }
+.cv-identity .cv-affiliation { font-size: .88rem; color: var(--clr-text-muted); margin: 0 0 .2rem; }
+.cv-identity .cv-contact { font-size: .85rem; color: var(--clr-text-muted); }
+.cv-identity .cv-contact a { color: var(--clr-sage-dark); }
+
+/* ── CV citation entries ─────────────────── */
+.cv-citation {
+  font-size: .875rem;
+  line-height: 1.65;
+  padding: .85rem 1.2rem .85rem 1.1rem;
+  border-left: 3px solid var(--clr-sage-light);
+  background: var(--clr-surface);
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+  margin-bottom: .65rem;
+  transition: var(--ease);
+}
+.cv-citation:hover { border-left-color: var(--clr-sage); box-shadow: var(--shadow-sm); }
+.cv-citation em { font-style: italic; color: var(--clr-text-muted); }
+
+/* ── About page CTA strip ────────────────── */
+.about-cta {
+  display: flex;
+  gap: .75rem;
+  flex-wrap: wrap;
+  margin-top: 2.25rem;
+  padding-top: 1.75rem;
+  border-top: 1px solid var(--clr-border);
+}
+
+/* ── Publication type tags ───────────────── */
+.pub-tag {
+  display: inline-block;
+  font-size: .7rem;
+  font-weight: 600;
+  letter-spacing: .04em;
+  padding: .18rem .6rem;
+  border-radius: 20px;
+  margin-bottom: .45rem;
+  text-transform: uppercase;
+}
+.pub-tag.journal { background: var(--clr-sage-light); color: var(--clr-sage-dark); border: 1px solid var(--clr-sage); }
+.pub-tag.brief   { background: var(--clr-sky-light);  color: #3a6b85;              border: 1px solid var(--clr-sky); }
+.pub-tag.report  { background: var(--clr-earth-light);color: var(--clr-earth);     border: 1px solid var(--clr-earth); }
+
+/* ── Contact alt methods ─────────────────── */
+.contact-alt { max-width: 560px; margin: 1.75rem auto 0; }
+.contact-alt-heading { font-size: .78rem; font-weight: 600; letter-spacing: .07em; text-transform: uppercase; color: var(--clr-text-muted); margin-bottom: 1rem; }
+.contact-alt-list { list-style: none; padding: 0; margin: 0; display: flex; flex-direction: column; gap: .6rem; }
+.contact-alt-item { display: flex; align-items: center; gap: .75rem; background: var(--clr-surface); border: 1px solid var(--clr-border); border-radius: var(--radius-sm); padding: .65rem 1rem; font-size: .875rem; transition: var(--ease); }
+.contact-alt-item:hover { border-color: var(--clr-sage); box-shadow: var(--shadow-sm); }
+.contact-alt-icon { width: 1.25rem; text-align: center; color: var(--clr-text-muted); flex-shrink: 0; }
+.contact-alt-item a { color: var(--clr-text); font-weight: 500; }
+.contact-alt-item a:hover { color: var(--clr-sage-dark); }
+
+/* ── Main content top padding ────────────── */
+main.content { padding-top: 1.75rem; }
+
+/* ── Blog listing improvements ───────────── */
+.quarto-listing-default .listing-separator { display: none; }
+.quarto-listing-default .metadata { display: flex; align-items: center; gap: .5rem; flex-wrap: wrap; margin-top: .5rem; }
+.quarto-listing-default .listing-categories { margin-top: .6rem; display: flex; flex-wrap: wrap; gap: .35rem; }
+.quarto-listing-default .listing-description {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  font-size: .875rem;
+  line-height: 1.6;
+  margin-top: .3rem;
+}
+
+/* ── Footer center slot ──────────────────── */
+.nav-footer-center { font-size: .8rem; color: var(--clr-text-muted); }
+.nav-footer-center a { color: var(--clr-text-muted); font-weight: 500; transition: var(--ease); }
+.nav-footer-center a:hover { color: var(--clr-sage-dark); }
+.nav-footer { padding: 1.35rem 1.5rem; }

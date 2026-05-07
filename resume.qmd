@@ -127,30 +127,35 @@ Austin, Texas &middot; [johncoxjack@gmail.com](mailto:johncoxjack@gmail.com)
 <div class="pub-grid">
 
   <div class="pub-card">
+    <span class="pub-tag journal">Journal Article</span>
     <div class="pub-title">Striking or Grappling? Comparing Public and Officers' Perceptions of Police Use of Force</div>
     <div class="pub-meta">Eleuterio-da-Rocha, J., Tanksley, P.T., Martaindale, M.H., Johncox, J., &amp; Blair, J.P. &nbsp;&middot;&nbsp; <em>Journal of Criminal Justice</em> &nbsp;&middot;&nbsp; 2026</div>
     <a href="https://doi.org/10.21428/cb6ab371.10d2e685" class="pub-link" target="_blank">Read &rarr;</a>
   </div>
 
   <div class="pub-card">
+    <span class="pub-tag journal">Journal Article</span>
     <div class="pub-title">Active Attacks with Motor Vehicles: A Short Report and Case Study of the 2025 New Year's Day Attack in New Orleans, LA</div>
     <div class="pub-meta">Blair, J.P., Martaindale, M.H., Tanksley, P.T., &amp; Johncox, J.D. &nbsp;&middot;&nbsp; <em>American Journal of Criminal Justice</em> &nbsp;&middot;&nbsp; 2025</div>
     <a href="https://doi.org/10.21428/cb6ab371.e38dadd3" class="pub-link" target="_blank">Read &rarr;</a>
   </div>
 
   <div class="pub-card">
+    <span class="pub-tag brief">Policy Brief</span>
     <div class="pub-title">@#%$!: The Impact of Officer Profanity on Civilians' Perception of What Constitutes Reasonable Use of Force</div>
     <div class="pub-meta">Johncox, J.D. &amp; Martaindale, M.H. &nbsp;&middot;&nbsp; <em>Applied Police Briefings</em>, 2(3), 55&ndash;57 &nbsp;&middot;&nbsp; 2025</div>
     <a href="https://doi.org/10.22215/apb.v2i3.5519" class="pub-link" target="_blank">Read &rarr;</a>
   </div>
 
   <div class="pub-card">
+    <span class="pub-tag brief">Policy Brief</span>
     <div class="pub-title">Wait for Backup or Not? How Police Officers View Their Role When Responding to an Active Shooter Event</div>
     <div class="pub-meta">Johncox, J.D. &amp; Martaindale, M.H. &nbsp;&middot;&nbsp; <em>Applied Police Briefings</em>, 2(3), 64&ndash;66 &nbsp;&middot;&nbsp; 2025</div>
     <a href="https://doi.org/10.22215/apb.v2i3.5522" class="pub-link" target="_blank">Read &rarr;</a>
   </div>
 
   <div class="pub-card">
+    <span class="pub-tag brief">Policy Brief</span>
     <div class="pub-title">Can a Virtual Reality Training Scenario Elicit a Stress Response Similar to a Realistic Scenario-Based Training Scenario?</div>
     <div class="pub-meta">Johncox, J.D., Martindale, M.H., &amp; Sandel, W.L. &nbsp;&middot;&nbsp; <em>Applied Police Briefings</em>, 2(1), 17&ndash;19 &nbsp;&middot;&nbsp; 2025</div>
     <a href="https://doi.org/10.22215/apb.v2i1.5141" class="pub-link" target="_blank">Read &rarr;</a>
