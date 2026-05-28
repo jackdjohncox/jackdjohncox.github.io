@@ -10,7 +10,28 @@
 <atom:link href="https://jackdjohncox.github.io/developed.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.9.37</generator>
-<lastBuildDate>Wed, 27 May 2026 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 28 May 2026 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Brazil Research Tour - 2 Days Out</title>
+  <link>https://jackdjohncox.github.io/posts/2026-05-Pre-Brazil/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>In two days I leave for over a month. I don’t speak the language, and apparently shorts are not well received in some areas. I am incredibly excited, but it has also been a long time since I have been away from home like this. Much less, the closest example I have is a youth camp on the Frio River haha. This is much different. At first I was slightly nervous about it all as you can imagine, but telling myself how unique this is makes it more exciting. With how often we will be flying, I will be unable to take film or my camera on this trip… So I bought a new one. Known for its film simulations: the FujiFilm X100. I figure this is a great time to learn digital photography.</p>
+<p>Maybe I will also detox technology while away. Try to escape the black hole of Instagram Reels and Youtube. I’ve got some books I need to read, the first of which is The Crossing by Cormac McCarthy. I plan on posting when I return with some pictures for anyone to enjoy.</p>
+<p>Peace out.</p>
+
+
+
+ ]]></description>
+  <category>Work</category>
+  <category>Film</category>
+  <category>Travel</category>
+  <guid>https://jackdjohncox.github.io/posts/2026-05-Pre-Brazil/</guid>
+  <pubDate>Thu, 28 May 2026 05:00:00 GMT</pubDate>
+</item>
 <item>
   <title>DC ASEBP Conference</title>
   <link>https://jackdjohncox.github.io/posts/2026-05-DC/</link>
@@ -26,21 +47,21 @@
 <div class="quarto-layout-panel" data-layout-ncol="3">
 <div class="quarto-layout-row">
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><img src="https://jackdjohncox.github.io/posts/2026-05-DC/000218790026.jpg" class="img-fluid"></p>
+<p><a href="000218790026.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="https://jackdjohncox.github.io/posts/2026-05-DC/000218790026.jpg" class="img-fluid"></a></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><img src="https://jackdjohncox.github.io/posts/2026-05-DC/000218790036.jpg" class="img-fluid"></p>
+<p><a href="000218790036.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-2"><img src="https://jackdjohncox.github.io/posts/2026-05-DC/000218790036.jpg" class="img-fluid"></a></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><img src="https://jackdjohncox.github.io/posts/2026-05-DC/000218790073.jpg" class="img-fluid"></p>
+<p><a href="000218790073.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-3"><img src="https://jackdjohncox.github.io/posts/2026-05-DC/000218790073.jpg" class="img-fluid"></a></p>
 </div>
 </div>
 <div class="quarto-layout-row">
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><img src="https://jackdjohncox.github.io/posts/2026-05-DC/000218790043.jpg" class="img-fluid"></p>
+<p><a href="000218790043.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-4"><img src="https://jackdjohncox.github.io/posts/2026-05-DC/000218790043.jpg" class="img-fluid"></a></p>
 </div>
 <div class="quarto-layout-cell" style="flex-basis: 33.3%;justify-content: center;">
-<p><img src="https://jackdjohncox.github.io/posts/2026-05-DC/000218790033.jpg" class="img-fluid"></p>
+<p><a href="000218790033.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-5"><img src="https://jackdjohncox.github.io/posts/2026-05-DC/000218790033.jpg" class="img-fluid"></a></p>
 </div>
 </div>
 </div>
@@ -72,21 +93,6 @@
  ]]></description>
   <guid>https://jackdjohncox.github.io/posts/2026-05-first-roll/</guid>
   <pubDate>Wed, 06 May 2026 05:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>index</title>
-  <link>https://jackdjohncox.github.io/posts/2026-05-Pre-Brazil/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-
- ]]></description>
-  <guid>https://jackdjohncox.github.io/posts/2026-05-Pre-Brazil/</guid>
-  <pubDate>Thu, 28 May 2026 17:24:24 GMT</pubDate>
 </item>
 </channel>
 </rss>
