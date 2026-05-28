@@ -57,6 +57,18 @@ format: html
 
 ## Publications {.section-heading}
 
+### Research Reports
+
+```{=html}
+<div class="pub-grid" style="margin-top:.75rem">
+
+  <div class="cv-citation">
+    Martaindale, M. H., Johncox, J. D., &amp; Eleuterio-da-Rocha, J. (2026). <em>The role of locked doors and access control in school-based active shooter events: An analysis of U.S. K&ndash;12 active shooter incidents, 2000&ndash;2025</em>. ALERRT Center at Texas State University.
+  </div>
+
+</div>
+```
+
 ### Journal Articles
 
 ```{=html}
