@@ -23,6 +23,10 @@ website:
         href: cv.qmd
       - text: "Contact"
         href: contact.qmd
+      - text: "Developed"
+        href: developed.qmd
+      - text: "Fun"
+        href: fun.qmd
     right:
       - icon: github
         href: https://github.com/jackdjohncox
@@ -30,10 +34,6 @@ website:
       - icon: linkedin
         href: https://www.linkedin.com/in/jack-johncox-154463221/
         target: _blank
-      - text: "Developed"
-        href: developed.qmd
-      - text: "Fun"
-        href: fun.qmd
 
 format:
   html:

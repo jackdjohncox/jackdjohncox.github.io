@@ -11,7 +11,7 @@ A collection of personal projects and tools I've built or tinkered with.
 ::::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
 :::: {.card .h-100 .fun-card}
 ::: {.card-body .d-flex .flex-column}
-##### 🥗 Meal Plan Calculator
+##### Meal Plan Calculator
 
 Enter your stats and goal, and the tool computes your TDEE, sets protein and macro targets, and builds out a full day of meals with swappable proteins, carbs, and sauces that update macros live. Includes a bowl maker and a research basis tab with citations.
 
